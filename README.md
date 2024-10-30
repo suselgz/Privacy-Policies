@@ -1,10 +1,10 @@
-# Privacy-Policies
-A. 介绍
-我们非常重视并承诺保护拓展访客的隐私。本政策详细阐述了我们对个人信息的处理方式。
-当您首次访问我们的拓展时，如果您同意我们遵循本政策的条款使用cookie，则意味着此后您每次访问我们的拓展时，都允许我们使用cookie。
-B. 版权说明
-本文档基于SEQ Legal（seqlegal.com）的模板创建，
-由Website Planet (www.websiteplanet.com) 修改完成。
+# Privacy-Policies  
+
+A. 介绍  
+我们非常重视并承诺保护拓展访客的隐私。本政策详细阐述了我们对个人信息的处理方式。  
+当您首次访问我们的拓展时，如果您同意我们遵循本政策的条款使用cookie，则意味着此后您每次访问我们的拓展时，都允许我们使用cookie。  
+B. 版权说明  
+本文档基于SEQ Legal（seqlegal.com）的模板创建，由Website Planet (www.websiteplanet.com) 修改完成。  
 C. 收集个人信息
 以下类型的个人信息可能被收集、保存和使用：
 有关您的计算机的信息，包括您的IP地址、地理位置、浏览器类型和版本以及操作系统；
